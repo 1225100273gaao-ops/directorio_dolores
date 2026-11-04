@@ -32,3 +32,15 @@ Desarrollo Móvil Integral · UTNG
 ![Ronda 5 rojo](capturas/ronda5_rojo.png)
 #### Verde
 ![Ronda 5 verde](capturas/ronda5_verde.png)
+
+### Ronda 6 · La pantalla y la prueba final
+#### Análisis y pruebas
+![Ronda 6 analyze](capturas/ronda6_analyze.png)
+#### Lista cargada
+![Ronda 6 lista](capturas/ronda6_lista.png)
+#### Marcar favorito
+![Ronda 6 favorito](capturas/ronda6_fav.png)
+#### Agregar negocio
+![Ronda 6 agregar](capturas/ronda6_agregar.png)
+#### Error y reintentar
+![Ronda 6 error y reintentar](capturas/ronda6_error_reintentar.png)
