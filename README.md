@@ -20,3 +20,9 @@ Desarrollo Móvil Integral · UTNG
 ![Ronda 3 rojo](capturas/ronda3_rojo.png)
 #### Verde
 ![Ronda 3 verde](capturas/ronda3_verde.png)
+
+### Ronda 4 · Conectar app y API
+#### Manifiesto de Android
+![Ronda 4 manifiesto](capturas/ronda4_manifest.png)
+#### API alcanzable por IP
+![Ronda 4 IP](capturas/ronda4_ip.png)
