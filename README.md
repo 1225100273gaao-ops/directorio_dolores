@@ -2,6 +2,11 @@
 
 Consumo de una API local desde Flutter. API REST en Node, cliente HTTP, estados y pruebas con MockClient.
 
+Autor: Aguilar Ortiz Gael Alejandro
+
+Grupo: GTID241 · Matrícula: 1225100273
+
+
 Desarrollo Móvil Integral · UTNG
 
 ## Capturas
