@@ -26,3 +26,9 @@ Desarrollo Móvil Integral · UTNG
 ![Ronda 4 manifiesto](capturas/ronda4_manifest.png)
 #### API alcanzable por IP
 ![Ronda 4 IP](capturas/ronda4_ip.png)
+
+### Ronda 5 · El ViewModel y los 5 estados
+#### Rojo
+![Ronda 5 rojo](capturas/ronda5_rojo.png)
+#### Verde
+![Ronda 5 verde](capturas/ronda5_verde.png)
